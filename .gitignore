@@ -173,3 +173,6 @@ cython_debug/
 # Classified Directories 
 security_files/
 pending/
+
+# large data files
+data/open-GIS/
