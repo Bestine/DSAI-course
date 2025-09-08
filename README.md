@@ -1,4 +1,7 @@
 # DSAI-course
+
+![KIEP-SKIES](images/logos/KIEPSKIES.jpg)
+
 ## Setting Up Your Virtual Environment  
 
 A virtual environment helps isolate dependencies and manage Python packages efficiently. Follow the steps below based on your operating system:  
